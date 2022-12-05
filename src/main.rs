@@ -5,5 +5,5 @@ mod common;
 mod day1;
 
 fn main(){
-    day1::first::main();
+    day1::second::main();
 }

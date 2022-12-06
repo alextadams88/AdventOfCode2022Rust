@@ -2,8 +2,8 @@
 //For example day5::first for the first puzzle from day 5. day12::second for the second puzzle from day 12.
 
 mod common;
-mod day1;
+mod day2;
 
 fn main(){
-    day1::second::main();
+    day2::second::main();
 }

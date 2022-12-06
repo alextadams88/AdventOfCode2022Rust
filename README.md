@@ -1,4 +1,5 @@
-Attempting to solve the 2022 Advent of Code challenges in Rust.
+Attempting to solve the 2022 Advent of Code challenges in Rust. This is a learning exercise for Rust. 
+This started out as a learning exercise for Currywurst Learning Day (December 2022). 
 
 In order to run the challenges, it should be as easy as:
 1) Check out the repo.
